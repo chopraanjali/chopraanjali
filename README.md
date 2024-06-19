@@ -2,10 +2,10 @@
 
 My name is Anjali! I'm a web developer based in India. 
 
-I work as a freelancer and I'm currently building my portfolio and actively looking for a full-time position!
+I work as a freelancer and I'm actively looking for a full-time position!
 Being a creative individual, frontend generally excites me more and I like creating visually appealing user-experiences. 
 I'm tech agnostic and see tools and technologies only as a medium to solve human problems and simplify their lives. 
-I like to keep things clean and simple hence, I'm a big fan of superior quality designs and products. 
+I like to keep things clean and simple and I'm a big fan of superior quality designs & products. I'm rigourously working on building my portfolio website, until then my GitHub shall serve as my portfolio :) 
 
 What I like doing: 
   - creating stunning web apps / websites 
