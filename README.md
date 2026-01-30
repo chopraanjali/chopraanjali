@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-My name is Anjali! I'm a web developer based in India. 
+My name is Anjali!
 
-I'm currently working at RunDTC as a Software Engineer.
-Being a creative individual, frontend generally excites me more and I like creating visually appealing user-experiences. 
+I'm a Software Engineer, currently working at RunDTC. I like creating visually appealing user-experiences and solving problems through code. 
 I'm tech agnostic and see tools and technologies only as a medium to solve human problems and simplify lives. 
 I like to keep things clean and simple and I'm a big fan of superior quality designs & products. I'm veryyyy slowly working on building my portfolio website, until then my GitHub shall serve as my portfolio :) 
 
 What I like doing: 
-  - creating stunning web apps / websites 
+  - creating responsive and stunning web apps / websites 
   - solving problems and fixing bugs (bug hunting is one of my favorite things to do!)
-  - making things responsive to enhance user experience
   - collaborating with talented UI/UX designers and developers
   - learning! (big believer of being a student my whole life)
   - playing string instruments (Ukulele and Sitar)
